@@ -14,6 +14,8 @@ The Tableau dashboard includes a variety of visualizations that explore the rela
 * However, there are some exceptions to these trends. For example, some countries with relatively low GDP per capita have high life expectancy at birth.
 
 [Link to Wealth of Nations Tableau Dashboard](https://public.tableau.com/views/Assignment1DataVisualisation_16944230049590/Top20CountriesforLifeExpectancyGDPSmartphoneUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
+![image](https://github.com/zer-king/Excel-Tableau-Data-Visualisation/assets/61353059/fdf41ebe-ab0d-41e2-910a-b27c001daef3)
+
 
 ### Conclusion
 
