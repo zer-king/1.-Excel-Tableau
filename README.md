@@ -1,4 +1,4 @@
-# 1.-Excel-Tableau
+# Excel-Tableau-Data-Visualisation
 ## Wealth of Nations Data Visualization Project
 
 ### Summary
