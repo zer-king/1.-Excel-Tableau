@@ -3,7 +3,7 @@
 
 ### Summary
 
-This project uses the Wealth of Nations Excel dataset to create data visualizations in Tableau. The dataset includes data on GDP per capita, life expectancy at birth, and smartphone users worldwide. The data was cleaned, formatted, and filtered in Excel before being imported into Tableau. Excel macros had also been used to create buttons for printing, saving and copying on the worksheet. The password for the excel file is password .
+This project uses the Wealth of Nations Excel dataset to create data visualizations in Tableau. The dataset includes data on GDP per capita, life expectancy at birth, and smartphone users worldwide. The data was cleaned, formatted, and filtered in Excel before being imported into Tableau. Excel macros had also been used to create buttons for printing, saving and copying on the worksheet. The password for the Wealth of Nations - password excel file is password .
 
 ### Tableau Dashboard
 
